@@ -1,2 +1,3 @@
-# hastechnologyltd.github.io
+# HAS Technology Ltd
+
 GitHub Repository Website
